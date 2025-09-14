@@ -777,6 +777,8 @@ version = "0.1.0"
 dependencies = [
  "error-chain",
  "reqwest",
+ "serde",
+ "serde_json",
  "tokio",
 ]
 
